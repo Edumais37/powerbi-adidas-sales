@@ -1,9 +1,9 @@
 # Adidas Sales Performance Dashboard (Power BI)
 This Power BI dashboard analyzes Adidas sales data from 2020–2021, offering insight into product performance, retailer trends, and regional demand. Built with a star schema model and SQL-transformed data, the dashboard was created to support strategic decisions in product development, retail partnerships, and market expansion.
 
-🔗 [Click here to view the live dashboard](#)  
+🔗 [Click here to view the live dashboard](https://github.com/Edumais37/powerbi-adidas-sales/blob/main/report/Adidas_Sales_Dashboard.pbix)  
 
-📄 [Download PDF version](#)
+📄 [Download PDF version](https://github.com/Edumais37/powerbi-adidas-sales/blob/main/report/Adidas_Sales_Dashboard_PDF.pdf)
 
 
 
@@ -11,7 +11,7 @@ This Power BI dashboard analyzes Adidas sales data from 2020–2021, offering in
 
 ## Dashboard Preview
 
-![Adidas Dashboard Preview](https://github.com/Edumais37/powerbi-adidas-sales/blob/main/Screenshot%202025-05-07%20225236.png?raw=true)
+![Adidas Dashboard Preview](https://github.com/Edumais37/powerbi-adidas-sales/blob/main/report/Adidas_Dash_Page1.png) 
 
 
 <br>
@@ -91,16 +91,19 @@ Published Report & PDF Export
 ## Recommended Actions
 - Expand high-margin product distribution in the South, leveraging strong Sports Direct performance.
 
-- Investigate West Gear’s success with low-margin volume—can it scale elsewhere?
+- Investigate West Gear’s success with low-margin volume — consider scaling to other markets.
 
 - Capitalize on medium-margin products, especially footwear, to maximize profit at scale.
 
 - Explore product event tie-ins to boost less demanded lines during seasonal spikes.
 
-- Review 2021 NYC sales void—logistical issue or market shift?
+- Review 2021 NYC sales void — logistical issue or market shift?
 
 <br>
 
+## Additional Views
+
+![Toggled Charts Preview](https://github.com/Edumais37/powerbi-adidas-sales/blob/main/report/Adidas_Dash_Page2.png) 
 ## View the Dashboard
 Live Report (Power BI Service)
 
@@ -114,11 +117,11 @@ Download Power BI Desktop
 
 Clone or download this repo.
 
-Open adidas_sales_dashboard.pbix in Power BI
+Open Adidas_Sales_Dashboard.pbix in Power BI
 
 <br>
 
-## Resume & Portfolio
-This project is also featured in my resume and analytics portfolio.
+## Contact
+**Author:** Elliot Dumais
 
-Feel free to explore and connect!
+**LinkedIn:** www.linkedin.com/in/elliot-dumais-aa0a55358
