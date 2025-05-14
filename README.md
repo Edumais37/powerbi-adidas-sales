@@ -5,8 +5,31 @@ This Power BI dashboard analyzes Adidas sales data from 2020–2021, offering in
 
 📄 [Download PDF version](#)
 
-![Adidas Dashboard Preview]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-05-07 225236.png")
 
+
+<br>
+
+## Dashboard Preview
+
+![Adidas Dashboard Preview](https://github.com/Edumais37/powerbi-adidas-sales/blob/main/Screenshot%202025-05-07%20225236.png?raw=true)
+
+
+<br>
+
+## Folder Structure
+
+```
+powerbi-adidas-sales/
+|-- data/
+    |-- Adidas US Sales Datasets.xlsx         
+    |-- Adidas US Sales Datasets 2.csv       # Input dataset (CSV format)
+|-- sql/
+    |-- Adidas_Sales_Script2.sql             # Format and model data
+    |                                        # Calculate metrics, create star schema for use in Power BI
+|-- report/
+    |-- Adidas_Sales_Dashboard.pbix          # Power BI project file
+|-- README.md                                # Overview, key insights and analysis
+```
 <br>
 
 ## Tools Used
@@ -27,7 +50,7 @@ Bookmark Navigation for smooth chart switching (e.g., Region vs. City view)
 
 Clean Layout with supporting KPI cards, matrix views, and contextual labels
 
-Published Report & PDF Export for recruiters without Power BI
+Published Report & PDF Export
 
 <br>
 
